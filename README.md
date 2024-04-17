@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Lorin-github](https://github-readme-stats.vercel.app/api?username=seasalt-haiyan)](https://github.com/anuraghazra/github-readme-stats)
+![seasalt-haiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=seasalt-haiyan&show_icons=true&theme=transparent)
